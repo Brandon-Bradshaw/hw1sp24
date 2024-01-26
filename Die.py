@@ -20,6 +20,7 @@ def rollFairDie():
     print(x)
 
 ones=0
+
 for i in range(0,1000000):
     y = rollFairDie()
     if y==1:
