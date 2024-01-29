@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cc8dbcb-3890-458c-88d0-9a0d76362412" name="Changes" comment="initial commit of hw1">
-      <change afterPath="$PROJECT_DIR$/HW1SP24_Prob1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Die.py" beforeDir="false" afterPath="$PROJECT_DIR$/Die.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +34,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Die.executor": "Run",
     "Python.HW1SP24_Prob1.executor": "Run",
     "Python.main.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/brand/PycharmProjects/HW1SP24/HW1SP24_Prob1.py"
   }
 }]]></component>
   <component name="RunManager">
@@ -104,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706288157464</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit of hw1">
+      <option name="closed" value="true" />
+      <created>1706552341876</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706552341877</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
